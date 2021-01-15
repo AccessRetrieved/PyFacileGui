@@ -119,7 +119,7 @@ def touchid_authenticate(reason='authenticate via Touch ID'):
     """
     touchid.authenticate(reason)
 
-def touchid_is_avalible():
+def touchid_is_availible():
     """
     This function checks if your macbook supports touch id.
 
