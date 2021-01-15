@@ -6,7 +6,7 @@ from PyFacileGui.pygui import entry
 from PyFacileGui.pygui import time
 from PyFacileGui.pygui import user
 from PyFacileGui.pygui import send_email
-from PyFacileGui.pygui import touchid_is_avalible
+from PyFacileGui.pygui import touchid_is_availible
 from PyFacileGui.pygui import touchid_authenticate
 from PyFacileGui.pygui import left_click
 from PyFacileGui.pygui import right_click
